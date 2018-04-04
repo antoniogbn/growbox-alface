@@ -5,5 +5,5 @@
 - The full project comtemples to monitor and act trought cooler and led painel in case some of these sensors levels became unhealthy for the plants;
 
 ####PROJECT SCHEMATIC
-![]https://github.com/antoniogbn/growbox-alface/growbox-alface.png
+![]https://github.com/antoniogbn/growbox-alface/blob/master/growbox-alface.png
 
